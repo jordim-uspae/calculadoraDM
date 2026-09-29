@@ -1,9 +1,8 @@
 #' Càlcul de la despesa meritada — Salut Mental: programes
 #'
 #' @param pressupost Pressupost contractat del programa.
-#' @param default 100%
-                codi_programa Paràmetre `default 100%
-                codi_programa`.
+#' @param pct_pla Percentatge d'assoliment del pla de salut.
+#' @param codi_programa Codi del programa (format "T-num").
 #'
 #' @return Despesa meritada calculada.
 #' @export

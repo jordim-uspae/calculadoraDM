@@ -1,8 +1,18 @@
 #' Càlcul de la despesa meritada — Atenció Intermèdia: mitja estada
 #'
 #' @param QC_C Quantitat/import contractat.
+#' @param QC_CP Quantitat/import contractat.
+#' @param QF_C Quantitat/import facturat (realitzat).
+#' @param QF_C_sida Quantitat/import facturat (realitzat).
 #' @param QF_CP Quantitat/import facturat (realitzat).
+#' @param tarifa_C Tarifa unitària.
 #' @param tarifa_C_GENERAL Tarifa unitària.
+#' @param tarifa_C_sida Tarifa unitària.
+#' @param tarifa_CP Tarifa unitària.
+#' @param cpr_CP Contraprestació per resultats (proporció entre 0 i 1).
+#' @param cpr_C Contraprestació per resultats (proporció entre 0 i 1).
+#' @param pct_prog_CP Percentatge del programa d'implantació.
+#' @param ambit Àmbit pel qual es vol calcular la despesa meritada.
 #'
 #' @return Despesa meritada calculada.
 #' @export

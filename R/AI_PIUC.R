@@ -2,8 +2,11 @@
 #'
 #' @param QC_AC_D Quantitat/import contractat.
 #' @param QC_AC_G Quantitat/import contractat.
+#' @param QC_MC_D Quantitat/import contractat.
 #' @param QC_MC_G Quantitat/import contractat.
+#' @param QC_MF_D Quantitat/import contractat.
 #' @param QC_MF_G Quantitat/import contractat.
+#' @param QF_AC_D Quantitat/import facturat (realitzat).
 #' @param QF_AC_G Quantitat/import facturat (realitzat).
 #' @param QF_MC_D Quantitat/import facturat (realitzat).
 #' @param QF_MC_G Quantitat/import facturat (realitzat).

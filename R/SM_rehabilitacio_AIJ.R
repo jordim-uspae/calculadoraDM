@@ -1,6 +1,8 @@
 #' Càlcul de la despesa meritada — Salut Mental: rehabilitacio AIJ
 #'
 #' @param QC Quantitat/import contractat.
+#' @param QF Quantitat/import facturat (realitzat).
+#' @param tarifa Tarifa unitària.
 #' @param pct_pla Percentatge d'assoliment del pla de salut.
 #'
 #' @return Despesa meritada calculada.

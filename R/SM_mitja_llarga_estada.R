@@ -4,6 +4,10 @@
 #' @param QC_RM_TC Quantitat/import contractat.
 #' @param QC_TM_PSIQ Quantitat/import contractat.
 #' @param tarifa_RM Tarifa unitària.
+#' @param tarifa_RM_TC Tarifa unitària.
+#' @param tarifa_TM_PSIQ Tarifa unitària.
+#' @param pct_RM Paràmetre `pct_RM`.
+#' @param pct_RM_TC Paràmetre `pct_RM_TC`.
 #' @param pct_TM_PSIQ Paràmetre `pct_TM_PSIQ`.
 #'
 #' @return Despesa meritada calculada.

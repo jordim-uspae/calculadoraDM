@@ -1,9 +1,7 @@
 #' Càlcul de la despesa meritada — Salut Mental: subaguts adolescents
 #'
 #' @param QC Quantitat/import contractat.
-#' @param però al excel ho calcula en base a altes contractades*EM*tarifa
-            EM Paràmetre `però al excel ho calcula en base a altes contractades*EM*tarifa
-            EM`.
+#' @param EM Paràmetre `EM`.
 #' @param tarifa Tarifa unitària.
 #' @param pct_pla Percentatge d'assoliment del pla de salut.
 #'

@@ -1,6 +1,7 @@
 #' Càlcul de la despesa meritada — Salut Mental: drogodependencies
 #'
 #' @param pressupost Pressupost contractat del programa.
+#' @param pct_pla Percentatge d'assoliment del pla de salut.
 #'
 #' @return Despesa meritada calculada.
 #' @export

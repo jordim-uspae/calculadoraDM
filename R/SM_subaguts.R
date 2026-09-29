@@ -2,6 +2,7 @@
 #'
 #' @param QC Quantitat/import contractat.
 #' @param EM Paràmetre `EM`.
+#' @param QF Quantitat/import facturat (realitzat).
 #' @param tarifa_altes Tarifa unitària.
 #' @param tarifa_fix Tarifa unitària.
 #' @param tarifa_variable Tarifa unitària.

@@ -1,6 +1,9 @@
 #' Càlcul de la despesa meritada — Salut Mental: hosp parcial infantil
 #'
 #' @param QC Quantitat/import contractat.
+#' @param EM Paràmetre `EM`.
+#' @param QF Quantitat/import facturat (realitzat).
+#' @param tarifa Tarifa unitària.
 #' @param pct_pla Percentatge d'assoliment del pla de salut.
 #'
 #' @return Despesa meritada calculada.

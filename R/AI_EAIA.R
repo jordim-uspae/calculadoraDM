@@ -1,6 +1,11 @@
 #' Càlcul de la despesa meritada — Atenció Intermèdia: EAIA
 #'
 #' @param QC_AG Quantitat/import contractat.
+#' @param QC_AP Quantitat/import contractat.
+#' @param QC_ATC Quantitat/import contractat.
+#' @param QC_PV Quantitat/import contractat.
+#' @param QC_VS Quantitat/import contractat.
+#' @param QF_AG Quantitat/import facturat (realitzat).
 #' @param QF_AP Quantitat/import facturat (realitzat).
 #' @param QF_ATC Quantitat/import facturat (realitzat).
 #' @param QF_PV Quantitat/import facturat (realitzat).

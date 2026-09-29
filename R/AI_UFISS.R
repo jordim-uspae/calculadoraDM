@@ -1,6 +1,7 @@
 #' Càlcul de la despesa meritada — Atenció Intermèdia: UFISS
 #'
 #' @param IC_geriatria Import contractat.
+#' @param IC_mixta Import contractat.
 #' @param IC_pal Import contractat.
 #' @param IC_transt_cond Import contractat.
 #' @param cpr_geriatria Contraprestació per resultats (proporció entre 0 i 1).
