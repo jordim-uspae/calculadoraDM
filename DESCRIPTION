@@ -1,0 +1,18 @@
+Package: calculadoraMeritada
+Type: Package
+Title: Calculadora de Despesa Meritada (CatSalut)
+Version: 0.2.0
+Authors@R: person("Jordi", role = c("aut", "cre"), email = "jordimontserrat@catsalut.cat")
+Description: Funcions per calcular la despesa meritada dels contractes
+    sanitaris del CatSalut (USPAE), replicant les fórmules de facturació
+    de l'annex de tarifes en tres àmbits: Atenció Intermèdia (AI), Salut
+    Mental (SM) i Hospitalització d'Aguts (HA).
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.0
